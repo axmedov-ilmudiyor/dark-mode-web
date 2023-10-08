@@ -1,1 +1,2 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+*{padding:0;margin:0}.header-section__hero{position:relative;width:100%;height:100vh;font-family:sans-serif}.header-section__nav{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;width:100%;max-width:84%;margin:auto;padding:20px 0}.header-section__logo{width:100%;max-width:100px}.header-section__item{display:inline-block;list-style:none;margin:10px 20px}.header-section__link{color:#606163;text-decoration:none}.header-section__link:hover{color:#ff4321}.header-section__info{margin-left:8%;margin-top:15%}
+/*# sourceMappingURL=style.css.map */
